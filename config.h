@@ -5,8 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "monospace:size=14:antialias=true:autohint=true";
-/* static char *font = "Source Code Pro:pixelsize=22:antialias=true:autohint=true"; */
+static char *font = "Liberation Mono:style=Regular:size=14:antialias=true:autohint=true";
+/* static char *font = "monospace:size=14:antialias=true:autohint=true";
+static char *font = "Source Code Pro:pixelsize=22:antialias=true:autohint=true"; */
 static int borderpx = 2;
 
 /*
